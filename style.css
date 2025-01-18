@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+#first_description{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    height: 10vh;
+}
